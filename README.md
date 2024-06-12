@@ -1,2 +1,2 @@
-# Appoinment Management System For Medical Center
+# Appointment Management System
  
